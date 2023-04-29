@@ -10,7 +10,7 @@ Dark and Light mode for comfortable viewing in all lighting conditions.
 ## Installation
 To run this app on your local machine, you will need to have Node.js and npm installed. Once you have these, follow these steps:
 
-1. Clone this repository: git clone https://github.com/your-username/crypto-tracker.git.
+1. Clone this repository: git clone https://github.com/21Sero/CryptoTracker.git.
 2. Navigate to the cloned directory: cd crypto-tracker.
 3. Install dependencies: npm install.
 4. Start the app: npm start.
