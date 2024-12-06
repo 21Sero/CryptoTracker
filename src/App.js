@@ -29,7 +29,7 @@ function App() {
             </Typography.Title>
             <Space>
                 <Link to="/">Home</Link>
-                <Link to="https://fascinating-banoffee-18db5d.netlify.app/" target="_blank">My Portfolio</Link>
+                <Link to="https://portfolio-v2-rosy-five.vercel.app/" target="_blank">My Portfolio</Link>
                 <Link to="/news">News</Link>
             </Space>
         </div>
