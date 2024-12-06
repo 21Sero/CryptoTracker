@@ -53,7 +53,7 @@ const Navbar = () => {
                         <Link to="/news">News</Link>
                     </Menu.Item>
                     <Menu.Item icon={<MoneyCollectOutlined />}>
-                        <Link to="https://fascinating-banoffee-18db5d.netlify.app/" target="_blank"> My Portfolio</Link>
+                        <Link to="https://portfolio-v2-rosy-five.vercel.app/" target="_blank"> My Portfolio</Link>
                     </Menu.Item>
                 </Menu>
             )}
